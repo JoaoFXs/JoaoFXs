@@ -1,4 +1,4 @@
-### Olá, sou João Felix, programador Java pela IBM! Bem vindo(a) ao meu perfil. 
+### Olá, sou João Felix, programador Java atualmente trabalhando para IBM! Bem vindo(a) ao meu perfil. 
 <div align="left">
   <a href="https://github.com/JoaoFXs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoFXs&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
