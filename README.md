@@ -1,7 +1,5 @@
-### Olá!!
-##
 <div align = "left" style = "float: left;">
-<p>Meu nome é João, tenho 24 anos, sou apaixonado por programação e estou cursando Ciência da computação. Moro em Barueri/SP e atualmente sou desenvolvedor java na IBM. No momento estou no projeto VALE, e lá tenho contato com diversas tecnologias Java, como: Camel, Fuse, Spring Boot Framework, Apache Camel, Azure dentre outros. </p>
+<p>Olá, sou João, tenho 24 anos e estou cursando Ciência da Computação. Resido em Barueri/SP e trabalho como Desenvolvedor Java na IBM, onde atualmente estou envolvido no projeto VALE. Nesse projeto, tenho a oportunidade de trabalhar com uma ampla gama de tecnologias Java, incluindo Camel, Fuse, Spring Boot, Apache Camel e Azure, entre outras. </p>
  <img align="right" alt="Joao-avatar" height="300" width="300" src="https://media.discordapp.net/attachments/877738022056099881/989962276868067389/studying.png?width=540&height=540">
 </div>
 
