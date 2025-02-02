@@ -1,5 +1,5 @@
 <div align = "left" style = "float: left;">
-<p>Olá, sou João, tenho 24 anos e estou cursando Ciência da Computação. Resido em Barueri/SP e trabalho como Desenvolvedor Java na IBM, onde atualmente estou envolvido no projeto VALE. Nesse projeto, tenho a oportunidade de trabalhar com uma ampla gama de tecnologias Java, incluindo Camel, Fuse, Spring Boot, Apache Camel e Azure, entre outras. </p>
+<p>Olá, sou João, tenho 25 anos e sou formado em Ciência da Computação. Resido em Barueri/SP e trabalho como Desenvolvedor Java na IBM, onde atualmente estou envolvido no projeto VALE. Nesse projeto, tenho a oportunidade de trabalhar com uma ampla gama de tecnologias Java, incluindo Camel, Fuse, Spring Boot, Apache Camel e Azure, entre outras. </p>
 </div>
 
 
