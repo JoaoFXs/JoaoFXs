@@ -1,5 +1,6 @@
 # 💫 About Me:
-I hold a degree in Computer Science and currently work as a Java Developer at IBM, contributing to a project for the company VALE.<br><br>I have experience in backend development using Java and the Spring ecosystem, including Spring Boot, Spring MVC, Spring Data, Spring Security, and Spring Cloud.<br><br>On the frontend side, I work with React.js, leveraging modern tools like Tailwind CSS and React Router to build fast and responsive user interfaces.<br><br>I also have knowledge of cloud computing, with hands-on experience in Microsoft Azure and Amazon Web Services (AWS), applying best practices in architecture, security, and scalability.
+I hold a degree in Computer Science and currently work as a Java Developer at IBM, contributing to a project for the company VALE.<br><br>I have experience in backend development using Java and the Spring ecosystem, including Spring Boot, Spring MVC, Spring Data, Spring Security, and Spring Cloud.<br><br>On the frontend side, I work with React.js, leveraging modern tools like JavaScript, TypeScript, Tailwind CSS, and React Router to build fast and responsive user interfaces.<br><br>I also have knowledge of cloud computing, with hands-on experience in Microsoft Azure and Amazon Web Services (AWS), applying best practices in architecture, security, and scalability.
+
 
 
 ## 🌐 Socials:
